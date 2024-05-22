@@ -10,7 +10,7 @@
 <h3 align="center"> it's a NLP Project use preprocessing with Nltk , Spacy  . </h3>
 
   <p align="center">
-     Project Information-Retrieval
+     SMS
     <br/>
     <br/>
   </p>
