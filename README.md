@@ -28,8 +28,8 @@
 </p>
 
 ## About The Project
-Context The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
-and use many function Removes punctuation symbols - Filtering Stop Words - Stemming - Tagging Parts of Speech - Lemmatizing - Chunking - Chinking - Named-Entity Recognition - Dependency Parsing - Rule-Based Matching - Vectorization types
+* Context The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
+* use many function Removes punctuation symbols - Filtering Stop Words - Stemming - Tagging Parts of Speech - Lemmatizing - Chunking - Chinking - Named-Entity Recognition - Dependency Parsing - Rule-Based Matching - Vectorization types
 
 ## Contributing
 
